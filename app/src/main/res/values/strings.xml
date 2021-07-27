@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginLogout</string>
+
+    <string-array name="city">
+        <item>Ahmedabad</item>
+        <item>Bhavnagar</item>
+        <item>Jamnagar</item>
+        <item>Rajkot</item>
+        <item>Surat</item>
+        <item>Vadodara</item>
+    </string-array>
+</resources>
